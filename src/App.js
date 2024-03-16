@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-This is a demo for react        </a>
+this just demo package, it works       </a>
       </header>
     </div>
   );
