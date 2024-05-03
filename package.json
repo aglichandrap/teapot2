@@ -1,10 +1,12 @@
 {
   "name": "teapot-spillthetea",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "airdropfind": "^1.1.6",
+    "mdnp": "^1.1.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
@@ -46,5 +48,6 @@
   "bugs": {
     "url": "https://github.com/aglichandrap/teapot2/issues"
   },
-  "homepage": "https://github.com/aglichandrap/teapot2#readme"
+  "homepage": "https://github.com/aglichandrap/teapot2#readme",
+  "devDependencies": {}
 }
